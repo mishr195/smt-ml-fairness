@@ -1,0 +1,5 @@
+This is a placeholder file for the binary neural network model 'sample_credit_300.onnx'.
+
+Description:
+A serialized ONNX model representing a credit scoring neural network with 300 variables/features.
+It will be added to the project folder at a later stage to test the verification pipeline.

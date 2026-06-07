@@ -1,0 +1,12 @@
+{
+  "credit_scoring": {
+    "epsilon": 0.05,
+    "protected_indices": [1, 5, 8],
+    "description": "Baseline preset for individual fairness verification in credit scoring systems."
+  },
+  "medical_triage": {
+    "epsilon": 0.01,
+    "protected_indices": [0, 2],
+    "description": "Baseline preset for clinical resource allocation priority verification."
+  }
+}
